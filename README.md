@@ -1,9 +1,9 @@
 
 ## Cal.com Monorepo Concept/Proposal
-A monorepo brings many advantages to us the more we branch off with additions such as the Console, which would benefit greatly from code-sharing ui and backend logic.
+A ~~monorepo~~* brings many advantages to us the more we branch off with additions such as the Console, which would benefit greatly from code-sharing ui and backend logic.
 
-### Submodules
-This repository would utilize git submodules to include a **closed source** repository called `console` which utilizes shared code from the open source version of Cal. This design allows more closed source submodules to exist and code share.
+### *Submodules
+This repository would utilize git submodules to include a **closed source** repository called `console` which utilizes shared code from the open source version of Cal. This design allows more closed source submodules to exist and code share. Originally this concept would have been a monorepo, but with submodules that is not necessary.
 
 ### Structure
 The file structure in this project illustrates at a bare minimum what the layout could look like.
