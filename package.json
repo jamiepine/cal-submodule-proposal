@@ -1,0 +1,8 @@
+{
+  "name": "cal-monorepo-plan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jamiepine/cal-monorepo-proposal.git",
+  "author": "Jamie <ijamespine@me.com>",
+  "license": "MIT"
+}
