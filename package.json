@@ -1,8 +1,8 @@
 {
-  "name": "cal-monorepo-plan",
+  "name": "cal-submodule-proposal",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:jamiepine/cal-monorepo-proposal.git",
+  "repository": "git@github.com:jamiepine/cal-submodule-proposal.git",
   "author": "Jamie <ijamespine@me.com>",
   "license": "MIT"
 }
