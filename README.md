@@ -1,5 +1,5 @@
 
-## Cal.com Monorepo Concept/Proposal
+## Cal.com Repo Concept/Proposal
 A ~~monorepo~~* brings many advantages to us the more we branch off with additions such as the Console, which would benefit greatly from code-sharing ui and backend logic.
 
 ### *Submodules
